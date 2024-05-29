@@ -7,7 +7,7 @@
 <br><br>
 <img src="https://www.unifal-mg.edu.br/portal2/wp-content/uploads/sites/52/2018/04/cropped-logo-unifal-1.png" alt="Example image">
 
-> This repository contains materials and projects developed during the Functional Programming course, offered by the Federal University of Alfenas. Credits to professor Luiz Eduardo da Silva for the provided materials.
+> This repository contains materials and projects developed during the Functional Programming course, offered by the Federal University of Alfenas. Credits to professor Eliseu César Miguel for the provided materials.
 
 <br><br>
 ## 💻 Contents
